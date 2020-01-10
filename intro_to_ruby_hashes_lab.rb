@@ -2,7 +2,7 @@
   # keyword "return." Nice and neat.
 
 def base_hash
-  hash = {:key => "value"}
+  hash = {:railroads => "value"}
   hash
 end
 
