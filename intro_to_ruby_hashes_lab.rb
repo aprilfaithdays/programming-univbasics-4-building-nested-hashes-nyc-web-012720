@@ -32,7 +32,7 @@ def monopoly_with_third_tier
         :name_three => "name3",
         :name_four => "name4"
       },
-      :one_piece_owned => 25
+      :one_piece_owned => "a fee of 25"
     }
   }
   hash
